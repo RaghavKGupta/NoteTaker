@@ -1,5 +1,4 @@
 # NoteTaker
 A note taking app made in swift for iOS devices. 
-jhnmkedcrftvgbyhnuj
-fvgbhnj
-fvgbhjnkm
+Uses the UIView Controller kit for UI and connectivity.
+
